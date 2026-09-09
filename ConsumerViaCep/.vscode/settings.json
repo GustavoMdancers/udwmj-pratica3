@@ -1,0 +1,12 @@
+{
+  "code-runner.executorMap": {
+    "csharp": "dotnet run --project \"$workspaceRoot/ConsumerViaCep.csproj\" --"
+  },
+  "code-runner.runInTerminal": true,
+  "chat.tools.terminal.autoApprove": {
+    "/^printf '30492020\\\\n' \\| dotnet run --project \"/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/ConsumerViaCep\\.csproj\"$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
+}

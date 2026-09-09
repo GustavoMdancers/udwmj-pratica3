@@ -1,0 +1,14 @@
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/bin/Debug/net10.0/ConsumerViaCep
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/bin/Debug/net10.0/ConsumerViaCep.deps.json
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/bin/Debug/net10.0/ConsumerViaCep.runtimeconfig.json
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/bin/Debug/net10.0/ConsumerViaCep.dll
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/bin/Debug/net10.0/ConsumerViaCep.pdb
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.AssemblyInfoInputs.cache
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.AssemblyInfo.cs
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.csproj.CoreCompileInputs.cache
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.dll
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/refint/ConsumerViaCep.dll
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.pdb
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ConsumerViaCep.genruntimeconfig.cache
+/home/gustavomdancers/Documents/UNIBH/ConsumerViaCep/obj/Debug/net10.0/ref/ConsumerViaCep.dll
